@@ -2,8 +2,8 @@
 
 Especialista em Dados 
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanbertozuim/) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vanbertozuim@gmail.com) &nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/-Rafaella_Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaella-duarte-044276130/)](https://www.linkedin.com/in/vanbertozuim/)
+[![Gmail Badge](https://img.shields.io/badge/-vanbertozuim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanbertozuim@gmail.com)](mailto:rafaella.d.d.carvalho@gmail.com)
 
 
 <!---
